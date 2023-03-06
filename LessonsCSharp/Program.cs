@@ -24,6 +24,8 @@ namespace LessonsCSharp
                 Console.WriteLine("Конвертация не удалась");
             }
 
+            Console.WriteLine("testGitHub");
+
         }
     }
 }
